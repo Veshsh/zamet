@@ -1,0 +1,15 @@
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.csproj.AssemblyReference.cache
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.AssemblyInfoInputs.cache
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.AssemblyInfo.cs
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.csproj.CoreCompileInputs.cache
+C:\Users\Лена\Source\Repos\zametka\zametka\bin\Debug\net6.0\zametka.exe
+C:\Users\Лена\Source\Repos\zametka\zametka\bin\Debug\net6.0\zametka.deps.json
+C:\Users\Лена\Source\Repos\zametka\zametka\bin\Debug\net6.0\zametka.runtimeconfig.json
+C:\Users\Лена\Source\Repos\zametka\zametka\bin\Debug\net6.0\zametka.dll
+C:\Users\Лена\Source\Repos\zametka\zametka\bin\Debug\net6.0\zametka.pdb
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.dll
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\refint\zametka.dll
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.pdb
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\zametka.genruntimeconfig.cache
+C:\Users\Лена\Source\Repos\zametka\zametka\obj\Debug\net6.0\ref\zametka.dll
